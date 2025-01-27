@@ -1,0 +1,50 @@
+.login-container {
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.logo {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.login-buttons {
+    margin-bottom: 20px;
+}
+
+.auth-button {
+    width: 250px;
+    padding: 12px;
+    margin: 10px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.github {
+    background-color: #333;
+    color: white;
+}
+
+.google {
+    background-color: #db4437;
+    color: white;
+}
+
+.login-footer {
+    text-align: center;
+}
+
+.login-footer a {
+    color: #007bff;
+    text-decoration: none;
+}

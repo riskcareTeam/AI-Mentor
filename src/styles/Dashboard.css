@@ -1,0 +1,90 @@
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  
+  .logout-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #ff4757;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .learning-paths {
+    margin-bottom: 40px;
+  }
+  
+  .path-cards {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .learning-path-card {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .daily-tip {
+    background-color: #e1e1e1;
+    padding: 20px;
+    border-radius: 10px;
+    max-height: 500px;
+    overflow-y: auto;
+  }
+  
+  .save-later {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+.tips {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  background-color: #f3f3f3;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.user-skills {
+  background-color: #e1e1e1;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
+
+.document-generator-container {
+  padding: '20px';
+  background-color: '#121212';
+  color: 'white'
+}
+
+.document-generator-container li {
+  background-color: none;
+}
+  
